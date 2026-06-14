@@ -16,16 +16,13 @@ Di dalam repository ini, terdapat 7 Jupyter notebook yang merangkum materi kulia
 ## Daftar Repository
 
 | Repository | Topik | Notebook |
-|:---------:|:------|:---------|
-| **1** | Pengantar Data Science — Dasar Python, Variabel, List, Fungsi | 
-[`Pertemuan1_Gerry Fadlurahman_250401020202.ipynb`](https://github.com/gerryfad/data-science-2026/blob/main/Pertemuan1_Gerry%20Fadlurahman_250401020202.ipynb) |
-| **2** | Analisis Data dengan Pandas — Eksplorasi Dataset Titanic | 
-[`Pertemuan2_Gerry Fadlurahman_250401020202.ipynb`]
-(https://github.com/gerryfad/data-science-2026/blob/main/Pertemuan2_Gerry%20Fadlurahman_250401020202.ipynb) |
+|:---:|:---|:---|
+| **1** | Pengantar Data Science — Dasar Python, Variabel, List, Fungsi | [`Pertemuan1_Gerry Fadlurahman_250401020202.ipynb`](https://github.com/gerryfad/data-science-2026/blob/main/Pertemuan1_Gerry%20Fadlurahman_250401020202.ipynb) |
+| **2** | Analisis Data dengan Pandas — Eksplorasi Dataset Titanic | [`Pertemuan2_Gerry Fadlurahman_250401020202.ipynb`](https://github.com/gerryfad/data-science-2026/blob/main/Pertemuan2_Gerry%20Fadlurahman_250401020202.ipynb) |
 | **3** | Data Cleaning — Missing Values, Outlier, Normalisasi, REST API | [`Pertemuan3_Gerry Fadlurahman_250401020202.ipynb`](https://github.com/gerryfad/data-science-2026/blob/main/Pertemuan3_Gerry%20Fadlurahman_250401020202.ipynb) |
-| **4** | Statistika & Visualisasi — Dataset Iris (Distribusi, Boxplot, Heatmap) | [`Pertemuan4_Gerry Fadlurahman_250401020202.ipynb`](https://github.com/gerryfad/data-science-2026/blob/main/Pertemuan4_Gerry%20Fadlurahman_250401020202.ipynb) |
-| **5** | Visualisasi Data — Palmer Penguins (Bar Chart, Histogram, Scatter, Dashboard) | [`Pertemuan5_Gerry Fadlurahman_250401020202.ipynb`](https://github.com/gerryfad/data-science-2026/blob/main/Pertemuan5_Gerry%20Fadlurahman_250401020202.ipynb) |
-| **6** | Persiapan Data (Preprocessing) — Encoding, Scaling, Train-Test Split | [`Pertemuan6_Gerry Fadlurahman_250401020202.ipynb`](https://github.com/gerryfad/data-science-2026/blob/main/Pertemuan6_Gerry%20Fadlurahman_250401020202.ipynb) |
+| **4** | Statistika & Visualisasi — Dataset Iris: Distribusi, Boxplot, Heatmap | [`Pertemuan4_Gerry Fadlurahman_250401020202.ipynb`](https://github.com/gerryfad/data-science-2026/blob/main/Pertemuan4_Gerry%20Fadlurahman_250401020202.ipynb) |
+| **5** | Visualisasi Data — Palmer Penguins: Bar Chart, Histogram, Scatter, Dashboard | [`Pertemuan5_Gerry Fadlurahman_250401020202.ipynb`](https://github.com/gerryfad/data-science-2026/blob/main/Pertemuan5_Gerry%20Fadlurahman_250401020202.ipynb) |
+| **6** | Persiapan Data / Preprocessing — Encoding, Scaling, Train-Test Split | [`Pertemuan6_Gerry Fadlurahman_250401020202.ipynb`](https://github.com/gerryfad/data-science-2026/blob/main/Pertemuan6_Gerry%20Fadlurahman_250401020202.ipynb) |
 | **7** | Pengantar Machine Learning — Simple & Multiple Linear Regression | [`Pertemuan7_Gerry Fadlurahman_250401020202.ipynb`](https://github.com/gerryfad/data-science-2026/blob/main/Pertemuan7_Gerry%20Fadlurahman_250401020202.ipynb) |
 
 ---
