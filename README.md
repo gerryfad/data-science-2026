@@ -24,11 +24,11 @@ Di dalam repository ini, terdapat 7 Jupyter notebook yang merangkum materi kulia
 | **5** | Visualisasi Data — Palmer Penguins: Bar Chart, Histogram, Scatter, Dashboard | [`Pertemuan5_Gerry Fadlurahman_250401020202.ipynb`](https://github.com/gerryfad/data-science-2026/blob/main/Pertemuan5_Gerry%20Fadlurahman_250401020202.ipynb) |
 | **6** | Persiapan Data / Preprocessing — Encoding, Scaling, Train-Test Split | [`Pertemuan6_Gerry Fadlurahman_250401020202.ipynb`](https://github.com/gerryfad/data-science-2026/blob/main/Pertemuan6_Gerry%20Fadlurahman_250401020202.ipynb) |
 | **7** | Pengantar Machine Learning — Simple & Multiple Linear Regression | [`Pertemuan7_Gerry Fadlurahman_250401020202.ipynb`](https://github.com/gerryfad/data-science-2026/blob/main/Pertemuan7_Gerry%20Fadlurahman_250401020202.ipynb) |
-| **9** | Pengantar Machine Learning — Simple & Multiple Linear Regression | [`Pertemuan7_Gerry Fadlurahman_250401020202.ipynb`](https://github.com/gerryfad/data-science-2026/blob/main/Pertemuan9_Gerry%20Fadlurahman_250401020202.ipynb) |
-| **10** | Pengantar Machine Learning — Simple & Multiple Linear Regression | [`Pertemuan7_Gerry Fadlurahman_250401020202.ipynb`](https://github.com/gerryfad/data-science-2026/blob/main/Pertemuan10_Gerry%20Fadlurahman_250401020202.ipynb) |
-| **11** | Pengantar Machine Learning — Simple & Multiple Linear Regression | [`Pertemuan7_Gerry Fadlurahman_250401020202.ipynb`](https://github.com/gerryfad/data-science-2026/blob/main/Pertemuan11_Gerry%20Fadlurahman_250401020202.ipynb) |
-| **12** | Pengantar Machine Learning — Simple & Multiple Linear Regression | [`Pertemuan7_Gerry Fadlurahman_250401020202.ipynb`](https://github.com/gerryfad/data-science-2026/blob/main/Pertemuan12_Gerry%20Fadlurahman_250401020202.ipynb) |
-| **13** | Pengantar Machine Learning — Simple & Multiple Linear Regression | [`Pertemuan7_Gerry Fadlurahman_250401020202.ipynb`](https://github.com/gerryfad/data-science-2026/blob/main/Pertemuan13_Gerry%20Fadlurahman_250401020202.ipynb) |
+| **9** | Pemilihan Model & Hyperparameter Tuning (GridSearchCV/RandomizedSearchCV) | [`Pertemuan9_Gerry Fadlurahman_250401020202.ipynb`](https://github.com/gerryfad/data-science-2026/blob/main/Pertemuan9_Gerry%20Fadlurahman_250401020202.ipynb) |
+| **10** | Ensemble Learning (Random Forest & Gradient Boosting) | [`Pertemuan10_Gerry Fadlurahman_250401020202.ipynb`](https://github.com/gerryfad/data-science-2026/blob/main/Pertemuan10_Gerry%20Fadlurahman_250401020202.ipynb) |
+| **11** | Unsupervised Learning: Segmentasi Pelanggan (K-Means & Hierarchical Clustering) | [`Pertemuan11_Gerry Fadlurahman_250401020202.ipynb`](https://github.com/gerryfad/data-science-2026/blob/main/Pertemuan11_Gerry%20Fadlurahman_250401020202.ipynb) |
+| **12** | Market Basket Analysis (Apriori) & Content-Based Filtering | [`Pertemuan12_Gerry Fadlurahman_250401020202.ipynb`](https://github.com/gerryfad/data-science-2026/blob/main/Pertemuan12_Gerry%20Fadlurahman_250401020202.ipynb) |
+| **13** | Neural Network (Batas Non-Linear) & Sentiment Analysis (TF-IDF NLP) | [`Pertemuan13_Gerry Fadlurahman_250401020202.ipynb`](https://github.com/gerryfad/data-science-2026/blob/main/Pertemuan13_Gerry%20Fadlurahman_250401020202.ipynb) |
 
 ---
 
